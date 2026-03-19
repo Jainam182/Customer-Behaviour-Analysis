@@ -22,10 +22,10 @@ This project focuses on analyzing customer purchasing behavior using **Power BI,
 
 ## 📁 Project Structure
 📂 Customer-Behaviour-Analysis
-┣ 📊 customer_behavior_dashboard.pbix
-┣ 📜 customer_behavior_sql_queries.sql
-┣ 📓 Customer_Behaviour_Analysis.ipynb
-┗ 📄 README.md
+ ┣ 📊 customer_behavior_dashboard.pbix
+ ┣ 📜 customer_behavior_sql_queries.sql
+ ┣ 📓 Customer_Behaviour_Analysis.ipynb
+ ┗ 📄 README.md
 
 ---
 
@@ -80,11 +80,12 @@ END
 
 ## 📷 Dashboard Preview
 <img width="1352" height="740" alt="image" src="https://github.com/user-attachments/assets/42904566-adbb-4351-b199-5d7cc09db9ef" />
+
 <img width="1349" height="737" alt="image" src="https://github.com/user-attachments/assets/63423084-d1a9-4c91-a9e5-831c1626f7fc" />
 
 ---
 
-##💡 Conclusion
+## 💡 Conclusion
 This project demonstrates strong skills in data cleaning, analysis, SQL querying, and dashboard development, enabling better understanding of customer behavior and business performance.
 
 
