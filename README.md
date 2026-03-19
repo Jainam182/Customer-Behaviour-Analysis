@@ -22,7 +22,7 @@ This project focuses on analyzing customer purchasing behavior using **Power BI,
 
 ## 📁 Project Structure
 
-Customer-Behaviour-Analysis/
+###Customer-Behaviour-Analysis/
 │
 ├── 📊 dashboard/
 │   └── customer_behavior_dashboard.pbix
