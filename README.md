@@ -20,29 +20,6 @@ This project focuses on analyzing customer purchasing behavior using **Power BI,
 
 ---
 
-## 📁 Project Structure
-
-###Customer-Behaviour-Analysis/
-│
-├── 📊 dashboard/
-│   └── customer_behavior_dashboard.pbix
-│
-├── 📜 sql/
-│   └── customer_behavior_sql_queries.sql
-│
-├── 📓 notebooks/
-│   └── Customer_Behaviour_Analysis.ipynb
-│
-├── 📂 data/
-│   └── customer_shopping_behavior.csv
-│
-├── 📷 assets/
-│   └── dashboard_screenshot.png                # Dashboard preview image
-│
-└── 📄 README.md                                # Project documentation
-
----
-
 ## 📊 Key Features
 
 ### 🔹 Dashboard Insights (Power BI)
